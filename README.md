@@ -1,7 +1,7 @@
 # Aaron Pierdon
 **IT/OT Integration Engineer**
 
-I focus on practical automation, system integration, and building targeted software tools to solve real-world data and interface bottlenecks.
+If a computer can automate it, it should. I build practical tools and integrations that handle repetitive tasks and make complex data simple to work with.
 
 ### 🛠️ Showcase Project
 * 📂 **[LogAggregator](https://github.com/AaronPierdon/LogAggregator)** — A lightweight log parsing and aggregation tool for system diagnostics, error isolation, and operational troubleshooting.
