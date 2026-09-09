@@ -7,4 +7,4 @@ If a computer can automate it, it should. I build practical tools and integratio
 * 📂 **[LogAggregator](https://github.com/AaronPierdon/LogAggregator)** — A lightweight log parsing and aggregation tool for system diagnostics, error isolation, and operational troubleshooting.
 
 ---
-📫 **Connect:** [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/pierdon/)
